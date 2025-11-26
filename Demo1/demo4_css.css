@@ -1,0 +1,10 @@
+.titre {
+    color: purple;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 30px;
+    font-weight: bold;
+}
